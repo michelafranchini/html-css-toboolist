@@ -7,14 +7,20 @@ body {
 
 }
 
-
 header {
    margin: 0px;
    background-color: white;
 }
 
+#logo {
+    margin: 15px;
+}
+
 h1  {
     display:inline-block;
+    position: absolute;
+    left: 4%;
+    top: 0%;
 }
 
 .container {
